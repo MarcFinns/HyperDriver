@@ -14,9 +14,11 @@ The board does the following:
 * Connects to TV via USB and can start the PI when the TV turns on
 * The PI can automatically shutdown when TV goes off (immediately or after X minutes)
 * If the automatic turn on from TV is triggered, the PI can still be shut down via the button
+* A 5V socket is available for a small fan, in case
 
 The On/Off function is proper, meaning the power supply is truly disconnected from the mains when off.
-I made sure that the PCB is single side and doable at home with some medium skills. I could not avoid one SMD as i did not have the through-hole part in the drawer, but it is trivial to convert it.
+I made sure that the PCB is single side and doable at home with some medium skills (e.g. i made it with toner transfer). 
+I could not avoid one SMD but only because I did not have the through-hole part in the drawer. Convertinf the PCB to through hole is trivial.
 The whole thing fits in a small electric junction box. See pictures.
 
 DISCLAIMER

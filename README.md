@@ -22,6 +22,6 @@ I could not avoid one SMD but only because I did not have the through-hole part 
 The whole thing fits in a small electric junction box. See pictures.
 
 **DISCLAIMER:**<BR>
-This is not your typical 5V Arduino project. 
-It is NOT breadboard friendly.
-Make it only if you know what you are doing.
+This is **NOT** your typical 5V Arduino project. <BR>
+It is **NOT** breadboard friendly.<BR>
+Make it **ONLY** if you know what you are doing.

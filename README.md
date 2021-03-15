@@ -21,7 +21,7 @@ I made sure that the PCB is single side and doable at home with some medium skil
 I could not avoid one SMD but only because I did not have the through-hole part in the drawer. Convertinf the PCB to through hole is trivial.
 The whole thing fits in a small electric junction box. See pictures.
 
-DISCLAIMER
+**DISCLAIMER:**<BR>
 This is not your typical 5V Arduino project. 
 It is NOT breadboard friendly.
 Make it only if you know what you are doing.

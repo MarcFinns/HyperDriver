@@ -1,6 +1,8 @@
 # HyperDriver
 LED driver and power board for Hyperion (DYI Ambilight)
 
+[See short video] (https://www.youtube.com/watch?v=JoaK5aRHBMA "HERE") 
+
 After setting up hyperion I was annoyed by starting/stopping it manually every time.
 My weekend project was to build a proper solution - with components I had in the drawer, which might explain some weird design choices.
 

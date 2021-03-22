@@ -1,4 +1,7 @@
 
-# GPIO settings to be added to /boot/config.txt
-gpio=5=op,dh
-gpio=6=ip
+# HyperDriver configuration
+# NOTE: First line is not strictly necessary, but speeds up relay activation on button press
+gpio=5=op,dh                                                                              
+dtoverlay=gpio-poweroff,gpiopin=5,active_low="y"
+dtoverlay=gpio-shutdown,gpio_pin=6,active_low=1
+

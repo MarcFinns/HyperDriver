@@ -1,5 +1,5 @@
 # To be added to crontab
 
-@reboot sh /home/pi/pishutdown/buttonshutdown.sh >/home/pi/pishutdown/logs/cronlog 2>&1
-@reboot sh /home/pi/pishutdown/tvshutdown.sh >/home/pi/pishutdown/logs/cronlog 2>&1
+@reboot sh /home/pi/tvshutdown.sh 2>&1
+
 

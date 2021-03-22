@@ -1,7 +1,8 @@
 #!/bin/sh
 
 cd /
-cd home/pi/pishutdown
+cd home/pi/
 sudo python tv_shutdown_daemon.py
 cd /
+
 
